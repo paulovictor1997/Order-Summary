@@ -10,4 +10,4 @@
 ### Links
 
 - Front End Mentor URL: [https://www.frontendmentor.io/profile/paulovictor1997](https://www.frontendmentor.io/profile/paulovictor1997)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://paulovictor1997.github.io/Order-Summary/](https://paulovictor1997.github.io/Order-Summary/)
